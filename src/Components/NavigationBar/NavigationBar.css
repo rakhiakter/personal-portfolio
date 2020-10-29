@@ -1,0 +1,17 @@
+.clr {
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: right;
+    color: #000000;
+}
+
+#logo {
+    font-family: Heebo;
+    font-style: normal;
+    font-size: 100px;
+    font-weight: 700;
+    color: #000000;
+}
