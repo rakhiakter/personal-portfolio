@@ -1,0 +1,29 @@
+.works {
+    margin-top: 110px;
+}
+
+.some {
+    margin-top: 50px;
+}
+
+.work {
+    margin-top: 50px;
+}
+
+.card-title {
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 44px;
+    color: #21243D;
+}
+
+.card-text {
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 23px;
+    color: #21243D;
+}

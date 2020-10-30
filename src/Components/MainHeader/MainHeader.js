@@ -23,7 +23,7 @@ const MainHeader = () => {
           <Col sm={5}>
             <Image
               className="potrait"
-              src={require("../../image/port.jpg").default}
+              src={require("../../image/potr.jpg").default}
               roundedCircle
             />
           </Col>
