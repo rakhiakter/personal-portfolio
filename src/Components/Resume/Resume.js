@@ -18,14 +18,14 @@ const Resume = () => {
         <h1> Rakhi Akter</h1>
         <h3> Frontend Web Developer</h3>
         <div>
-          Dhaka, Bangladesh  
-          <br/>
-           +8801758-013635
-           <br/>
-            E-mail:rakhi32799@gmail.com
-            <br/>
+          Dhaka, Bangladesh
+          <br />
+          +8801758-013635
+          <br />
+          E-mail:rakhi32799@gmail.com
+          <br />
           GitHub:https:/github.com/rakhiakter
-          <br/>
+          <br />
           LinkedIn:.linkedin.com/in/rakhi-akter-ba46ba1b1/
         </div>
         <div>
@@ -57,20 +57,18 @@ const Resume = () => {
           <h3> Some Projects —</h3>
           <p>
             <h4> ● Hard Rock(A Lyrics Searching Website)</h4>
-            <br/>
-            ➢ A single-page
-            website. ➢ A user easily can find any lyrics by this site. ➢ It
-            comes with a clean and straightforward search system. ➢ Users easily
-            find the lyrics with singer name. ➢ Languages & Tools: JavaScript,
-            HTML, CSS, Bootstrap4. ➢
+            <br />➢ A single-page website. ➢ A user easily can find any lyrics
+            by this site. ➢ It comes with a clean and straightforward search
+            system. ➢ Users easily find the lyrics with singer name. ➢ Languages
+            & Tools: JavaScript, HTML, CSS, Bootstrap4. ➢
             GitHub:https://github.com/rakhiakter/hard-rock ➢
             Website:https://rakhiakter.github.io/hard-rock/
           </p>
           <p>
-            <h4> ● Travel Guru ➢ A single-page online class website</h4> <br />➢
-            Languages & Tools: HTML, CSS, JavaScript, React, Bootstrap, Node.js,
-            Firebase. ➢ Booking Hotel or resort. ➢ You will get room suggestions
-            based on your selected area. ➢
+            <h4> ● Travel Guru </h4> <br />➢ A single-page online class website
+            ➢ Languages & Tools: HTML, CSS, JavaScript, React, Bootstrap,
+            Node.js, Firebase. ➢ Booking Hotel or resort. ➢ You will get room
+            suggestions based on your selected area. ➢
             GitHub:https://github.com/rakhiakter/travel-guru ➢ Website:
             https://travel-guru-dcd6f.web.app
           </p>
