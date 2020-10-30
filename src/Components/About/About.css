@@ -1,0 +1,34 @@
+.titleName {
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    color: #FF6464;
+    margin-top: 20px;
+}
+
+.aboutMe {
+    margin-top: 50px;
+}
+
+.potrait2 {
+    width: 300px;
+    height: 300px;
+    margin-bottom: 15px;
+}
+
+.skills {
+    margin-left: 130px;
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 60px;
+    color: #21243D;
+}
+
+.list {
+    color: #21243D;
+    font-family: Heebo;
+    font-style: normal;
+    margin-left: 100px;
+}

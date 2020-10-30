@@ -1,10 +1,15 @@
 
 import React from 'react';
 import { Col, Container, Image, Row, } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 import './MainHeader.css';
 
 
 const MainHeader = () => {
+   const aboutMe = () => {
+
+   };
+    const getTouch = () => {};
     return (
       <Container className="mainHeader">
         <Row>
@@ -27,10 +32,21 @@ const MainHeader = () => {
               roundedCircle
             />
           </Col>
-          <button className="get">About Me</button>
-          <button className="get" variant="outline-Bittersweet">
-            Get In Touch
-          </button>
+          <Link to="/about">
+            {" "}
+            <button className="get" onClick={aboutMe}>
+              About Me
+            </button>
+          </Link>
+          <Link to="contact">
+            <button
+              onClick={getTouch}
+              className="get"
+              variant="outline-Bittersweet"
+            >
+              Get In Touch
+            </button>
+          </Link>
         </Row>
       </Container>
     );

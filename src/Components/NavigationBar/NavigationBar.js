@@ -1,33 +1,42 @@
 import React from 'react';
 import { Button, Container, Nav, Navbar } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 import './NavigationBar.css'; 
 
 
 const NavigationBar = () => {
+   const resumeButton = () => {};
     return (
       <Container>
         <Navbar variant="light">
-          <Navbar.Brand id="logo" href="#home">
-            <img className="lg" src={require("../../image/rakhi.png").default} alt=""/>
+          <Navbar.Brand href="#home">
+            <img
+              className="lg"
+              src={require("../../image/rakhi.png").default}
+              alt=""
+            />
           </Navbar.Brand>
           <Nav className="ml-auto">
-            <Nav.Link className="clr" href="#home">
+            <Link to="/" className="nav-link">
               Home
-            </Nav.Link>
-            <Nav.Link className="clr" href="#features">
+            </Link>
+
+            <Link to="/about" className="nav-link">
               About
-            </Nav.Link>
-            <Nav.Link className="clr" href="#pricing">
+            </Link>
+            <Link to="/projects" className="nav-link">
               Projects
-            </Nav.Link>
-            <Nav.Link className="clr" href="#pricing">
+            </Link>
+            <Link to="/blogs" className="nav-link">
               Blog
-            </Nav.Link>
-            <Nav.Link className="clr" href="#pricing">
+            </Link>
+            <Link to="/contact" className="nav-link">
               Contact
-            </Nav.Link>
+            </Link>
           </Nav>
-          <Button variant="outline-dark">Resume</Button>
+          <Link to="/resume">
+            <Button variant="outline-dark" onClick={resumeButton}>Resume</Button>
+          </Link>
         </Navbar>
       </Container>
     );

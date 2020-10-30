@@ -1,0 +1,42 @@
+.nexts {
+    margin-top: 90px;
+    margin-left: 513px;
+    color: #FF6464;
+    font-family: Heebo;
+}
+
+.inTouch {
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 60px;
+    color: #21243D;
+    margin-left: 460px;
+    margin-top: 15px;
+}
+
+.message {
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    color: #21243D;
+    margin-left: 35px;
+    font-size: 20px;
+}
+
+.you {
+    margin-left: 460px;
+}
+
+.sayHi {
+    width: 208px;
+    height: 47px;
+    font-size: 30px;
+    background: #FF6464;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    margin-left: 460px;
+    margin-top: 30px;
+}
