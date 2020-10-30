@@ -3,6 +3,12 @@
 }
 
 .some {
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 60px;
+    color: #21243D;
     margin-top: 50px;
 }
 
@@ -26,4 +32,7 @@
     font-size: 16px;
     line-height: 23px;
     color: #21243D;
+}
+.card-img{
+height: 200px;
 }

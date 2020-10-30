@@ -7,7 +7,9 @@ const NavigationBar = () => {
     return (
       <Container>
         <Navbar variant="light">
-          <Navbar.Brand id="logo" href="#home">R</Navbar.Brand>
+          <Navbar.Brand id="logo" href="#home">
+            <img className="lg" src={require("../../image/rakhi.png").default} alt=""/>
+          </Navbar.Brand>
           <Nav className="ml-auto">
             <Nav.Link className="clr" href="#home">
               Home

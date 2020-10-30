@@ -8,10 +8,14 @@
     color: #000000;
 }
 
-#logo {
+/* #logo {
     font-family: Heebo;
     font-style: normal;
     font-size: 90px;
     font-weight: 700;
     color: #000000;
+} */
+.lg{
+    height: 70px;
+    width:70px ;
 }
