@@ -1,0 +1,41 @@
+.name {
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 44px;
+    line-height: 60px;
+    color: #21243D;
+}
+
+#about {
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 23px;
+    color: #21243D;
+}
+
+.potrait {
+    width: 235px;
+    height: 235px;
+    left: 760px;
+    top: 210px;
+    margin-left: 80px;
+}
+
+.mainHeader {
+    margin-top: 30px;
+}
+
+.get {
+    width: 208px;
+    height: 47px;
+    background: #FF6464;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
