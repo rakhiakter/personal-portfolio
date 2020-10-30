@@ -18,8 +18,14 @@ const Resume = () => {
         <h1> Rakhi Akter</h1>
         <h3> Frontend Web Developer</h3>
         <div>
-          Dhaka, Bangladesh +8801758-013635 E-mail:rakhi32799@gmail.com
+          Dhaka, Bangladesh  
+          <br/>
+           +8801758-013635
+           <br/>
+            E-mail:rakhi32799@gmail.com
+            <br/>
           GitHub:https:/github.com/rakhiakter
+          <br/>
           LinkedIn:.linkedin.com/in/rakhi-akter-ba46ba1b1/
         </div>
         <div>
