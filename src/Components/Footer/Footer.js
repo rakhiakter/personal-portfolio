@@ -6,9 +6,9 @@ const Footer = () => {
       <Container className="footer">
         <h5>
           Designed & Build by{" "}
-          <a href="">
+          
             <span className="designed">Rakhi Akter</span>
-          </a>{" "}
+          
           <i className="fab fa-github-square fa-2x"></i>
         </h5>
       </Container>
