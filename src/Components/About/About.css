@@ -2,7 +2,7 @@
     font-family: Heebo;
     font-style: normal;
     font-weight: normal;
-    color: #FF6464;
+    color:  #21243D;
     margin-top: 20px;
 }
 
@@ -12,8 +12,10 @@
 
 .potrait2 {
     width: 300px;
-    height: 300px;
+    height: 320px;
     margin-bottom: 15px;
+    margin-left: 50px;
+   
 }
 
 .skills {
@@ -27,8 +29,182 @@
 }
 
 .list {
-    color: #21243D;
     font-family: Heebo;
     font-style: normal;
     margin-left: 100px;
+}
+
+.mySkills1 {
+    background-color: #21243D;
+    height: 250px;
+    width: 200px;
+    border-radius: 2px;
+    color: #FFFFFF;
+    margin-right: 10px;
+}
+
+.mySkills2 {
+    background-color: #21243D;
+    height: 170px;
+    width: 150px;
+    border-radius: 4px;
+    color: #FFFFFF;
+    margin-right: 10px;
+}
+
+.mySkills3 {
+    background-color: #21243D;
+    height: 170px;
+    width: 150px;
+    border-radius: 4px;
+    color: #FFFFFF;
+    margin-right: 10px;
+}
+
+.mySkills4 {
+    background-color: #21243D;
+    height: 170px;
+    width: 150px;
+    border-radius: 4px;
+    color: #FFFFFF;
+    margin-right: 10px;
+}
+
+.mySkills5 {
+    background-color: #21243D;
+    height: 170px;
+    width: 150px;
+    border-radius: 4px;
+    color: #FFFFFF;
+    margin-right: 10px;
+}
+
+.mySkills6 {
+    background-color: #21243D;
+    text-align: center;
+    height: 40px;
+    width: 80px;
+    border-radius: 4px;
+    color: #FFFFFF;
+    margin-right: 10px;
+    display: inline;
+    float: left;
+}
+
+.mySkills7 {
+    background-color: #21243D;
+    height: 30px;
+    width: 40px;
+    border-radius: 4px;
+    color: #FFFFFF;
+    float: left;
+    display: inline;
+}
+
+.mySkills8 {
+    background-color:  #21243D;
+    height: 30px;
+    width: 40px;
+    border-radius: 4px;
+    color: #FFFFFF;
+    /* float: left;
+    display: inline; */
+    margin-left: 10px;
+}
+
+.mySkills9 {
+    background-color:  #21243D;
+    height: 30px;
+    width: 40px;
+    border-radius: 4px;
+    color: #FFFFFF;
+    margin-right: 20px;
+    /* float: left;
+    display: inline; */
+}
+
+.mySkills10 {
+    background-color:  #21243D;
+    height: 30px;
+    width: 40px;
+    border-radius: 4px;
+    color: #FFFFFF;
+    margin-right: 20px;
+    /* float: left;
+    display: inline; */
+}
+
+.mySkills11 {
+    background-color:  #21243D;
+    height: 30px;
+    width: 40px;
+    border-radius: 4px;
+    color: #FFFFFF;
+    margin-right: 20px;
+    /* float: left;
+    display: inline; */
+}
+
+.mySkills12 {
+    background-color:  #21243D;
+    height: 30px;
+    width: 40px;
+    border-radius: 4px;
+    color: #FFFFFF;
+    /* float: left;
+    display: inline; */
+}
+
+.mySkills13 {
+    background-color:  #21243D;
+    height: 30px;
+    width: 40px;
+    border-radius: 4px;
+    color: #FFFFFF;
+    /* float: left;
+    display: inline; */
+}
+
+.mySkills14 {
+    background-color:  #21243D;
+    height: 30px;
+    width: px;
+    border-radius: 4px;
+    color: #FFFFFF;
+    margin-right: 20px;
+    /* float: left;
+    display: inline; */
+}
+
+.mySkills15 {
+    background-color:  #21243D;
+    height: 30px;
+    width: 40px;
+    border-radius: 4px;
+    color: #FFFFFF;
+    margin-right: 20px;
+    /* float: left;
+    display: inline; */
+}
+
+.mySkills16 {
+    background-color:  #21243D;
+    height: 30px;
+    width: 40px;
+    border-radius: 4px;
+    color: #FFFFFF;
+    margin-right: 10px;
+    float: left;
+    display: inline;
+}
+
+.mySkills17 {
+    background-color:  #21243D;
+    height: 30px;
+    width: 40px;
+    border-radius: 4px;
+    color: #FFFFFF;
+    margin-right: 20px;
+    float: left;
+    display: inline;
 }

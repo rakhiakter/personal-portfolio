@@ -18,7 +18,7 @@
 }
 
 .potrait {
-    width: 350px;
+    width: 300px;
     height: 350px;
     left: 760px;
     top: 210px;
@@ -38,5 +38,8 @@
     color: white;
     margin-left: 10px;
     
+}
+.myName{
+ color: #FF6464;   
 }
 

@@ -1,0 +1,85 @@
+.keys {
+    margin-top: 120px;
+    margin-left: 410px;
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 44px;
+    line-height: 60px;
+    color: #21243D;
+}
+
+.react {
+    height: 150px;
+    width: 150px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 80px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.css {
+    height: 150px;
+    width: 150px;
+    margin-left: 10px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 80px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.es {
+    height: 150px;
+    width: 150px;
+    margin-left: 10px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 80px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.boot {
+    height: 150px;
+    width: 150px;
+    margin-left: 10px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 80px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.boot4 {
+    height: 150px;
+    width: 150px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 80px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.ex {
+    height: 150px;
+    width: 150px;
+    margin-left: 10px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 80px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.html {
+    height: 150px;
+    width: 150px;
+    margin-left: 10px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 80px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.js {
+    height: 150px;
+    width: 150px;
+    margin-left: 10px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 80px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.languages {
+    margin-top: 40px;
+    margin-left: 110px;
+}

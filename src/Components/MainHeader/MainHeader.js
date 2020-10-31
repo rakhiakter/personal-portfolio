@@ -12,9 +12,12 @@ const MainHeader = () => {
     const getTouch = () => {};
     return (
       <Container className="mainHeader">
+        
         <Row>
           <Col sm={7}>
-            <h1 className="name">Hi, I'm Rakhi Akter,</h1>
+            <h1 className="name">
+              Hi, I'm <span className="myName">Rakhi Akter</span>,
+            </h1>
             <h3 className="name"> Web Developer & Programmer</h3>
             <h6 id="about">
               A passionate,hard-working and self-motivated JavaScript and React
@@ -29,7 +32,7 @@ const MainHeader = () => {
             <Image
               className="potrait"
               src={require("../../image/potr.jpg").default}
-              roundedCircle
+              fluid
             />
           </Col>
           <Link to="/about">

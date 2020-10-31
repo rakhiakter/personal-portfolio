@@ -3,19 +3,18 @@ import { Col, Container, Image, Row } from 'react-bootstrap';
 import NavigationBar from '../NavigationBar/NavigationBar';
 import './About.css';
 import Footer from "../Footer/Footer";
+import KeySkills from '../KeySkills/KeySkills';
 const About = () => {
     return (
       <Container>
         <NavigationBar></NavigationBar>
         <Row className="aboutMe">
           <Col sm={7}>
-            <Image
-              className="potrait2"
-              src={require("../../image/potr.jpg").default}
-              roundedCircle
-            />
-            <h2 className="titleName">Hi, I'm Rakhi Akter,</h2>
-
+            <h1 className="titleName">
+              {" "}
+              <span className="myName"> Hello</span>, <br />
+              This is <span className="myName">Rakhi Akter</span>,
+            </h1>
             <h6 id="about">
               A passionate,hard-working and self-motivated JavaScript and React
               Web Developer. Comfortable with backend technologies like MongoDB
@@ -25,29 +24,18 @@ const About = () => {
               rapidly with increasing responsibilities.
             </h6>
           </Col>
+
           <Col sm={5}>
-            <h3 className="skills">My Skills</h3>
-            <ul className="list">
-              <li>React.JS</li>
-              <li>JavaScript</li>
-              <li>ES6</li>
-              <li>Node.JS</li>
-              <li>Express.JS</li>
-              <li>Redux.JS</li>
-              <li>MongoDB</li>
-              <li>Git</li>
-              <li>Firebase</li>
-              <li>Heroku</li>
-              <li>Netlify</li>
-              <li>Figma</li>
-              <li>VS Code</li>
-              <li>HTML5</li>
-              <li>CSS3</li>
-              <li>Material-UI</li>
-              <li>Bootstrap4</li>
-            </ul>
+            <Image
+              className="potrait2"
+              src={require("../../image/potr.jpg").default}
+              fluid
+            />
           </Col>
         </Row>
+      
+          <KeySkills></KeySkills>
+       
         <Footer></Footer>
       </Container>
     );
